@@ -2,7 +2,7 @@ git+https://github.com/pyrogram/pyrogram@master
 tgcrypto
 youtube-search
 git+https://github.com/yt-dlp/yt-dlp@master
-py-tgcalls==0.8.1rc1
+py-tgcalls==0.8.5
 python-dotenv
 requests
 aiohttp
@@ -43,5 +43,4 @@ python-arq
 youtube-search-python==1.4.9
 pytz
 aiohttp-session
-
 heroku3
