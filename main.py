@@ -1,6 +1,6 @@
 import asyncio
 from pytgcalls import idle
-from Spotify Proses.main import call_py, bot
+from Spotify Proses.main import call_py
 
 async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
