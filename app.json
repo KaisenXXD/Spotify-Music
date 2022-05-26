@@ -9,7 +9,7 @@
     ],
     "website": "https://t.me/SpotifySupport_id",
     "repository": "https://github.com/KaisenXXD/Spotify-Music",
-    "success_url": "https://t.me/BotDuniyaXd",
+    "success_url": "https://t.me/SpotifyBotProject",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
