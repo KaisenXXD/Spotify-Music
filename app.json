@@ -46,12 +46,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "godzilla_chatting"
+            "value": "SpotifySupport_id"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "BotDuniyaXd"
+            "value": "SpotifyBotProject"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
