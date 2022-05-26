@@ -61,7 +61,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "SpotifyMusic"
         }
     },
     "addons": [],
