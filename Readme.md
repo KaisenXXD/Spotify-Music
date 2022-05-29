@@ -61,8 +61,8 @@ sudo apt install python3-pip ffmpeg -y
 sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 sudo apt-get install -y nodejs
 sudo npm i -g npm
-git clone https://github.com/TeamDeeCode/DeCodeMusic # clone the repo.
-cd DeCodeMusic
+git clone https://github.com/KaisenXXD/Spotify-Music # clone the repo.
+cd Spotify-Music
 sudo pip3 install --upgrade pip
 sudo pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
